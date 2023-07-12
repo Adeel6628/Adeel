@@ -1,0 +1,257 @@
+
+.Header{
+
+       background-color: dimgrey;
+       height: 120px;
+       width: 100%;
+}
+
+.Logo{
+    height: 100px;
+    width: 30%;
+    float: left;
+
+}
+
+.icon{
+    height: 90px;   
+    width: 50%;
+    float: right;
+    margin-top: 4.5%;
+    margin-right: 25%;
+
+}
+
+ul{
+    color: rgb(238, 234, 234);
+  margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: dimgrey;
+    height: 100px;
+    list-style-type: none;
+    height: 100px;
+    
+  
+}
+
+
+li{
+    float: left;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: rgb(250, 249, 249);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: large;
+    margin-top: 35px;
+    
+}
+
+.container{
+    height: 400px;
+    width: 100%;
+    background-color: aquamarine;
+    float: left;
+    position: relative;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 300% 
+    
+  }
+
+.conte{
+  font-size: large;
+  text-align: left;
+  color: aliceblue;
+  
+}  
+
+
+.centered{
+    text-align: left;
+    color: rgb(250, 247, 247);
+}
+
+.technologies{
+    height: 400px;
+    width: 100%;
+}
+
+.SIMPLIFY{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(241, 243, 243);
+    float: left;
+}
+
+.H1{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 300%;
+}
+
+.Paragra{
+    text-align: center;
+    font-size: large;
+}
+
+.container2{
+    height: 300px;
+    width: 100%;
+    background-color: wheat;
+    float: left;
+    position: relative;
+
+}
+
+.centered2{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    transform: translate(-20%, -20%);
+    font-size: 300%
+    
+    
+}
+
+.secondpic{
+    height: 300px;
+    width: 100%;
+    
+}
+
+ 
+.second{
+
+
+    float: left;
+    background: rgb(189, 226, 103);
+    height: 450px;
+    width: 27%;
+    margin-left: 100px;
+    padding-top: 100px;
+    margin-top: 70px;
+    border-end-end-radius: 15px;
+    
+
+}    
+
+.second2{
+
+
+    float: left;
+    background: rgb(189, 226, 103);
+    height: 450px;
+    width: 27%;
+    margin: 10px;
+    padding-top: 100px;
+    margin-top: 70px;
+    
+    border-end-end-radius: 15px;
+
+}
+
+.second3{
+
+
+    float: left;
+    background: rgb(189, 226, 103);
+    height: 450px;
+    width: 27%;
+    margin: 0px;
+    padding-top: 100px;
+    margin-top: 70px;
+    
+    border-end-end-radius: 15px;
+
+}
+
+.picture{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.secondpix{
+    background: rgb(197, 205, 216);
+    height: 200px;
+    width: 80%;
+    margin: 10%;
+}
+
+
+.text{
+    background: white;
+    width: 80%;
+    margin: 10%;
+    height: 50px;
+    text-align: center;
+}
+
+.secndlast{
+    height: 450px;
+    width: 40%;
+    background-color: turquoise;
+    float: left;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.secndlastpic{
+    height: 450px;
+    width: 100%; 
+}
+
+.lastdiv{
+    height: 450px;
+    width: 40%;
+    font-size: x-large;
+    float: left;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+.lastp{
+    font-size: medium;
+}
+
+.Client{
+    height: 70px;
+    width: 80%; 
+    float: left;
+    /* background-color: aquamarine; */
+    margin-left: 150px;
+}
+
+.clientP{
+    text-align: center;
+}
+
+.Footer{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    float: left;
+}
+
+.iconLast{
+
+    height: 100px;   
+    width: 70%;
+    float: left;
+    margin-top: 25.5%;
+    
+    margin-left: 20%;
+}
+

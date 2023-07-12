@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .Header{
+
+    background-color: dimgrey;
+    height: 120px;
+    width: 100%;
+}
+
+.Logo{
+ height: 100px;
+ width: 30%;
+ float: left;
+
+}
+
+.icon{
+ height: 90px;   
+ width: 50%;
+ float: right;
+ margin-top: 4.5%;
+ margin-right: 25%;
+
+}
+
+ul{
+ color: rgb(238, 234, 234);
+margin: 0%;
+ padding: 0%;
+ overflow: hidden;
+ background-color: dimgrey;
+ height: 100px;
+ list-style-type: none;
+ height: 100px;
+ 
+
+}
+
+
+li{
+ float: left;
+ text-align: center;
+}
+
+li a {
+ display: block;
+ color: rgb(250, 249, 249);
+ text-align: center;
+ padding: 12px;
+ text-decoration: none;
+ font-size: large;
+ margin-top: 35px;
+ 
+}
+
+.Bg{
+    height: 200px;
+    width: 100%;
+    background: rgb(0, 119, 255);
+    float: left;
+    color: black;
+}
+
+.CON{
+    text-align: center;
+    color: aliceblue;
+    font-size: 300%;
+    
+    
+}
+
+.web{
+    color: aliceblue;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.color{
+    height: 4px;
+    width: 30px;
+    background-color: aqua;
+    padding-left: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.logoo{
+    height: 500px;
+    width: 50%;
+    background-color: white;    
+    border-radius: 5%;
+    padding-top: 50px;
+    margin-top: 10%;
+    float: left;
+    border-color: black;
+
+}
+
+
+.tel{
+    height: 200px;
+    align-items: center;
+    padding-top: 10%;
+    margin-left: 35%;
+   
+}
+
+
+
+
+
+
+
+

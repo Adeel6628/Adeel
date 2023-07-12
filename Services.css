@@ -1,0 +1,182 @@
+.Header{
+    height: 120px;
+    width: 100%;
+    background-color: dimgrey;
+}
+
+.Logo{
+    height: 100px;
+    width: 30%;
+    float: left;
+
+}
+
+.icon{
+    height: 90px;
+    width: 50%;
+    float: right;
+    margin-top: 4.5%;
+    margin-right: 25%;
+
+}
+
+ul{
+    color: rgb(238, 234, 234);
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: dimgrey;
+    height: 100px;
+    list-style-type: none;
+    height: 100px;
+
+}
+
+li{
+    float: left;
+    text-align: center;
+}
+
+
+li a{
+    display: block;
+    color: rgb(250, 249, 249);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: large;
+    margin-top: 35px;
+}
+
+.Bg{
+    height: 400px;
+    width: 100%;
+    background: yellow;
+    float: left;
+    color: black;
+}
+
+.Teachnology{
+    height: 400px;
+    width: 100%;
+}
+
+.Helping{
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+.Services{
+    text-align: center;
+}
+
+.Helping1{
+    text-align: center;
+}
+
+.Footer{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    float: left;
+  }
+  
+  .secndlast{
+    height: 450px;
+    width: 40%;
+    background-color: turquoise;
+    float: left;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.secndlastpic{
+    height: 450px;
+    width: 100%; 
+}
+
+.lastdiv{
+    height: 450px;
+    width: 40%;
+    font-size: x-large;
+    float: left;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+.lastp{
+    font-size: medium;
+}
+
+.Client{
+    height: 70px;
+    width: 80%; 
+    float: left;
+    /* background-color: aquamarine; */
+    margin-left: 150px;
+}
+
+.clientP{
+    text-align: center;
+}
+
+
+
+.etre{
+
+    height: 410px;
+    padding-top: 15%;
+    padding-left: 10%;
+   
+}
+
+.Ser{
+    padding-top: 25px;
+    margin-left: 30px;
+
+}
+
+
+.Hundred{
+    text-align: end;
+    height: 30px;
+    width: 80%;
+    background-color: turquoise;
+    margin-left: 30px;
+}
+
+/* .Footer{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    float: left;
+    padding-top: 10px;
+} */
+
+.iconLast{
+
+    height: 100px;   
+    width: 90%;
+    float: left;
+    margin-top: 25.5%;
+    
+    margin-left: 20%;
+}
+
+.gfjd{
+    /* list-style-type: none; */
+    text-decoration: none;
+    color: aliceblue;
+    float: left;
+}
+
+.True{
+    height: 30px;
+}
+
+.logl{
+
+    float: left;
+    text-decoration: none;
+}

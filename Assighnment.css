@@ -1,0 +1,183 @@
+
+/* .Header{
+    height: 100px;
+    width: 100%;
+    background: #000;
+    color: aliceblue;
+    float: left;
+    text-align: center;
+} */
+
+.Logo{
+    height: 100px;
+    width: 30%;
+    background: rgb(10, 10, 10);
+    float: left;
+}
+
+.icon{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 3px  solid tomato;
+    float: left;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(7, 7, 7);
+  height: 100px;
+  margin-top: 10%;
+  
+  
+}
+
+li {
+  float: left;
+  
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 36px;
+  text-decoration: none;
+  font-size: x-large;
+  
+
+}
+
+li a:hover {
+  background-color: Green;
+}
+
+.Bg{
+    height: 500px;
+    width: 100%;
+    background: yellow;
+    float: left;
+    color: black;
+}
+
+.Pak{
+    height: 500px;
+    width: 100%;
+}
+
+.Ser{
+    height: 70px;
+    width: 100%;
+    background-color: azure;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+}
+
+.Left{
+    height: 700px;
+    width: 100%;
+    float: left;
+    background-color: cadetblue;
+}
+
+.Rit{
+    height: 700px;
+    width: 10%;
+    background-color: black;
+    float: left;
+}
+
+.left2{
+    height: 80px;
+    width: 27%;
+    float: left;
+    background-color: rgb(65, 65, 66);
+    color: white;
+    text-align: center;
+    margin-top: 0.50%;
+ 
+}
+
+.left3{
+    height: 80px;
+    width: 26%;
+    float: left;
+    background-color: rgb(110, 110, 112);
+    color: white;
+    text-align: center;
+    margin-top: 0.50%;
+}
+
+.left4{
+    height: 80px;
+    width: 27%;
+    float: left;
+    background-color: rgb(65, 65, 66);
+    color: white;
+    text-align: center;
+    margin-top: 0.50%;
+}
+
+.Right{
+    height: 700px;
+    width: 10%;
+    background-color: black;
+    float: left;
+}
+
+.Dev{
+
+    height: 70px;
+    width: 100%;
+    background-color: azure;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+}
+
+.Enterprice{
+    height: 350px;
+    width: 30%;
+    float: left;
+    background-color: rgb(48, 42, 66);
+    margin-top: 4.5%;
+
+}
+
+.Computer{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 3px  solid tomato;
+    float: right;
+    margin-top: 20%;
+    margin-right: 5%;
+
+}
+
+.EnterpriceText{
+    height: 350px;
+    width: 60%;
+    float: left;
+    background-color: rgb(48, 42, 66);
+    margin-top: 4.5%;
+}
+
+.Enterprise{
+    margin-top: 15%;
+    font-size: xx-large;
+    text-align: left;
+    
+}
+
+.EntPera{
+    text-align: left;
+}

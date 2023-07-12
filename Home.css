@@ -1,0 +1,319 @@
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .Header{
+
+      background-color: dimgrey;
+      height: 120px;
+      width: 100%;
+}
+
+.Logo{
+   height: 100px;
+   width: 30%;
+   float: left;
+
+}
+
+.icon{
+   height: 90px;   
+   width: 50%;
+   float: right;
+   margin-top: 4.5%;
+   margin-right: 25%;
+
+}
+
+ul{
+   color: rgb(238, 234, 234);
+ margin: 0%;
+   padding: 0%;
+   overflow: hidden;
+   background-color: dimgrey;
+   height: 100px;
+   list-style-type: none;
+   height: 100px;
+   
+ 
+}
+
+
+li{
+   float: left;
+   text-align: center;
+}
+
+li a {
+   display: block;
+   color: rgb(250, 249, 249);
+   text-align: center;
+   padding: 12px;
+   text-decoration: none;
+   font-size: large;
+   margin-top: 35px;
+   
+}
+
+    /* .Logo{
+      height: 100px;
+      width: 30%;
+      background: #140c38;
+      float: left;
+  }
+  
+  .icon{
+      height: 90px;
+      width: 90px;
+      border-radius: 50%;
+      border: 3px  solid tomato;
+      float: left;
+  
+  }
+  
+    
+    .navbar {
+      overflow: hidden;
+      background-color: #140c38;
+      height: 120px
+    }
+    
+    .navbar a {
+      float: left;
+      font-size: 16px;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      padding-top: 50px;
+    }
+    
+    .dropdown {
+      float: left;
+      overflow: hidden;
+      padding-top: 35px;
+    }
+    
+    .dropdown .dropbtn {
+      font-size: 16px;  
+      border: none;
+      outline: none;
+      color: white;
+      padding: 14px 16px;
+      background-color: inherit;
+      font-family: inherit;
+      margin: 0;
+    }
+    
+    .navbar a:hover, .dropdown:hover .dropbtn {
+      background-color: rgb(29, 145, 81);
+    } */
+    
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+    }
+    
+    .dropdown-content a {
+      float: none;
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+    
+    .dropdown-content a:hover {
+      background-color: #ddd;
+    }
+    
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    
+    .Bg{
+      height: 500px;
+      width: 100%;
+      background: yellow;
+      float: left;
+      color: black;
+  }
+  
+  .Pak{
+      height: 500px;
+      width: 100%;
+  }
+  
+  .Ser{
+      height: 70px;
+      width: 100%;
+      background-color: azure;
+      float: left;
+      text-align: center;
+      padding: 10px;
+      font-size: large;
+  }
+
+  .Left{
+    height: 700px;
+    width: 100%;
+    float: left;
+    background-color: cadetblue;
+}
+
+.Rit{
+    height: 700px;
+    width: 10%;
+    background-color: black;
+    float: left;
+}
+
+.left2{
+    height: 80px;
+    width: 27%;
+    float: left;
+    background-color: rgb(65, 65, 66);
+    color: white;
+    text-align: center;
+    margin-top: 0.50%;
+ 
+}
+
+.left3{
+    height: 80px;
+    width: 26%;
+    float: left;
+    background-color: rgb(110, 110, 112);
+    color: white;
+    text-align: center;
+    margin-top: 0.50%;
+}
+
+.left4{
+    height: 80px;
+    width: 27%;
+    float: left;
+    background-color: rgb(65, 65, 66);
+    color: white;
+    text-align: center;
+    margin-top: 0.50%;
+}
+
+.Right{
+    height: 700px;
+    width: 10%;
+    background-color: black;
+    float: left;
+}
+
+.Dev{
+
+    height: 100px;
+    width: 100%;
+    background-color: azure;
+    float: left;
+    text-align: center;
+    padding: 20px;
+    font-size: xx-large;
+}
+
+.Enterprice{
+    height: 350px;
+    width: 30%;
+    float: left;
+    background-color: rgb(48, 42, 66);
+    margin-top: 4.5%;
+
+}
+
+.Computer{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 3px  solid tomato;
+    float: right;
+    margin-top: 20%;
+    margin-right: 5%;
+
+}
+
+.EnterpriceText{
+    height: 350px;
+    width: 60%;
+    float: left;
+    background-color: rgb(48, 42, 66);
+    margin-top: 4.5%;
+}
+
+.Enterprise{
+    margin-top: 15%;
+    font-size: xx-large;
+    text-align: left;
+    
+}
+
+.EntPera{
+    text-align: left;
+}
+
+.Logo44{
+  border-radius: 50%;
+  align-items: center;
+
+}
+
+.Logo45{
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+/* .Footer{
+  height: 300px;
+  width: 100%;
+  background-color: black;
+  float: left;
+} */
+
+/* .iconLast{
+
+  height: 100px;   
+  width: 70%;
+  float: left;
+  margin-top: 25.5%;
+  
+  margin-left: 20%;
+} */
+
+.iconLast{
+
+  height: 100px;   
+  width: 90%;
+  float: left;
+  margin-top: 25.5%;
+  
+  margin-left: 20%;
+}
+
+.gfjd{
+  /* list-style-type: none; */
+  text-decoration: none;
+  color: aliceblue;
+  float: left;
+}
+
+.True{
+  height: 30px;
+}
+
+.logl{
+
+  float: left;
+  text-decoration: none;
+}
+
